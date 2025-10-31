@@ -18,8 +18,7 @@ Key results revealed demographic and geographic patterns in hate crimes — incl
 
 This analysis demonstrates how **big data, cloud platforms, and visual analytics** can drive actionable insights for public safety and community awareness.
 
-[📂 Download Presentation (PPT)](BigData_Cloud_Analysis_HateCrimes_2017-2025.pptx)
-
+[📂 Download Presentation (PPT)](BigData_Cloud_Analysis_HateCrimes.pptx)  
 
 
 **SQL Database & Power BI Dashboard**  
